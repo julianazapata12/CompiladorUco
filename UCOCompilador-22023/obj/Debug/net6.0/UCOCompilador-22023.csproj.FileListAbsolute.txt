@@ -1,0 +1,14 @@
+C:\Users\usuario.NES\source\repos\UCOCompilador-22023\bin\Debug\net6.0\UCOCompilador-22023.exe
+C:\Users\usuario.NES\source\repos\UCOCompilador-22023\bin\Debug\net6.0\UCOCompilador-22023.deps.json
+C:\Users\usuario.NES\source\repos\UCOCompilador-22023\bin\Debug\net6.0\UCOCompilador-22023.runtimeconfig.json
+C:\Users\usuario.NES\source\repos\UCOCompilador-22023\bin\Debug\net6.0\UCOCompilador-22023.dll
+C:\Users\usuario.NES\source\repos\UCOCompilador-22023\bin\Debug\net6.0\UCOCompilador-22023.pdb
+C:\Users\usuario.NES\source\repos\UCOCompilador-22023\obj\Debug\net6.0\UCOCompilador-22023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario.NES\source\repos\UCOCompilador-22023\obj\Debug\net6.0\UCOCompilador-22023.AssemblyInfoInputs.cache
+C:\Users\usuario.NES\source\repos\UCOCompilador-22023\obj\Debug\net6.0\UCOCompilador-22023.AssemblyInfo.cs
+C:\Users\usuario.NES\source\repos\UCOCompilador-22023\obj\Debug\net6.0\UCOCompilador-22023.csproj.CoreCompileInputs.cache
+C:\Users\usuario.NES\source\repos\UCOCompilador-22023\obj\Debug\net6.0\UCOCompilador-22023.dll
+C:\Users\usuario.NES\source\repos\UCOCompilador-22023\obj\Debug\net6.0\refint\UCOCompilador-22023.dll
+C:\Users\usuario.NES\source\repos\UCOCompilador-22023\obj\Debug\net6.0\UCOCompilador-22023.pdb
+C:\Users\usuario.NES\source\repos\UCOCompilador-22023\obj\Debug\net6.0\UCOCompilador-22023.genruntimeconfig.cache
+C:\Users\usuario.NES\source\repos\UCOCompilador-22023\obj\Debug\net6.0\ref\UCOCompilador-22023.dll

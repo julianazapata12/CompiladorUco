@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UCOCompilador-22023/1.0.0": {
+        "runtime": {
+          "UCOCompilador-22023.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UCOCompilador-22023/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
